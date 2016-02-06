@@ -1,0 +1,7 @@
+name	"NGC 3599"
+host	"<a href='http://goo.gl/wnl9Mm'>NGC 3599</a>"
+citations	"<a href='http://adsabs.harvard.edu/abs/2007A%26A...462L..49E'>Esquej et al. 2007</a>*&Dagger;"
+instruments	"XMM-Newton, Swift (XRT), ALFOSC, ROSAT"
+redshift	"0.002699"
+claimedtype	"TDE"
+notes	"LLAGN features in spectrum, <a href='http://adsabs.harvard.edu/abs/2015arXiv150905193S'>bright for &gt;18 months</a>."

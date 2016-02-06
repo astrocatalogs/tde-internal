@@ -1,0 +1,110 @@
+name	"<a href='http://goo.gl/pdyToQ'>PTF-09djl</a>"
+host	"<a href='http://goo.gl/A2y9Ca'>SDSS J163355.97+301416.6</a>"
+citations	"<a href='http://arxiv.org/abs/1405.1415v1'>Arcavi et al. 2014</a>*&Dagger;"
+instruments	"P48 (R, g), P60 (g, r, i)"
+redshift	"0.184"
+claimedtype	"TDE"
+notes	""
+nh	8.928e19
+nhcorr	T
+restframe	F
+photometry	MJD	54964.290	4r	21.4271	0	1
+photometry	MJD	54964.365	4r	21.5973	0	1
+photometry	MJD	54965.192	4r	21.802	0	1
+photometry	MJD	54969.345	4r	22.1854	0	1
+photometry	MJD	54970.186	4r	21.4945	0	1
+photometry	MJD	55016.233	4r	21.7337	0	1
+photometry	MJD	55016.345	4r	21.1023	0	1
+photometry	MJD	55025.364	4r	21.4061	0	1
+photometry	MJD	55036.208	4r	20.7611	0.10094	0
+photometry	MJD	55036.283	4r	20.7021	0.10184	0
+photometry	MJD	55050.242	4r	19.5966	0.096362	0
+photometry	MJD	55055.205	4r	19.77	0.074211	0
+photometry	MJD	55060.322	4r	19.802	0.085029	0
+photometry	MJD	55061.185	4r	19.6337	0.037947	0
+photometry	MJD	55067.214	4r	19.8812	0.045503	0
+photometry	MJD	55067.259	4r	19.7503	0.047444	0
+photometry	MJD	55272.430	4r	21.4348	0	1
+photometry	MJD	55313.478	4r	21.4465	0	1
+photometry	MJD	55341.325	4r	21.2968	0	1
+photometry	MJD	55341.368	4r	21.5554	0	1
+photometry	MJD	55346.359	4r	21.3315	0	1
+photometry	MJD	55346.404	4r	21.0631	0	1
+photometry	MJD	55356.413	4r	21.9015	0	1
+photometry	MJD	55356.458	4r	21.5951	0	1
+photometry	MJD	55361.416	4r	21.9626	0	1
+photometry	MJD	55361.459	4r	21.7569	0	1
+photometry	MJD	55372.379	4r	21.4465	0	1
+photometry	MJD	55378.279	4r	21.5383	0	1
+photometry	MJD	55378.328	4r	21.4622	0	1
+photometry	MJD	55383.364	4r	21.9946	0	1
+photometry	MJD	55401.206	4r	21.4662	0	1
+photometry	MJD	55401.251	4r	21.5906	0	1
+photometry	MJD	55421.282	4r	21.8721	0	1
+photometry	MJD	55428.166	4r	22.0443	0	1
+photometry	MJD	55428.211	4r	21.9044	0	1
+photometry	MJD	55431.171	4r	21.9978	0	1
+photometry	MJD	55434.175	4r	21.4232	0	1
+photometry	MJD	55434.219	4r	21.0069	0	1
+photometry	MJD	55442.242	4r	21.9881	0	1
+photometry	MJD	54964.290	6r	21.4271	0	1
+photometry	MJD	54964.365	6r	21.5973	0	1
+photometry	MJD	54965.192	6r	21.802	0	1
+photometry	MJD	54969.345	6r	22.1854	0	1
+photometry	MJD	54970.186	6r	21.4945	0	1
+photometry	MJD	55016.233	6r	21.7337	0	1
+photometry	MJD	55016.345	6r	21.1023	0	1
+photometry	MJD	55025.364	6r	21.4061	0	1
+photometry	MJD	55036.208	6r	20.7611	0.10094	0
+photometry	MJD	55036.283	6r	20.7021	0.10184	0
+photometry	MJD	55050.242	6r	19.5966	0.096362	0
+photometry	MJD	55055.205	6r	19.77	0.074211	0
+photometry	MJD	55060.322	6r	19.802	0.085029	0
+photometry	MJD	55061.185	6r	19.6337	0.037947	0
+photometry	MJD	55067.214	6r	19.8812	0.045503	0
+photometry	MJD	55067.259	6r	19.7503	0.047444	0
+photometry	MJD	55272.430	6r	21.4348	0	1
+photometry	MJD	55313.478	6r	21.4465	0	1
+photometry	MJD	55341.325	6r	21.2968	0	1
+photometry	MJD	55341.368	6r	21.5554	0	1
+photometry	MJD	55346.359	6r	21.3315	0	1
+photometry	MJD	55346.404	6r	21.0631	0	1
+photometry	MJD	55356.413	6r	21.9015	0	1
+photometry	MJD	55356.458	6r	21.5951	0	1
+photometry	MJD	55361.416	6r	21.9626	0	1
+photometry	MJD	55361.459	6r	21.7569	0	1
+photometry	MJD	55372.379	6r	21.4465	0	1
+photometry	MJD	55378.279	6r	21.5383	0	1
+photometry	MJD	55378.328	6r	21.4622	0	1
+photometry	MJD	55383.364	6r	21.9946	0	1
+photometry	MJD	55401.206	6r	21.4662	0	1
+photometry	MJD	55401.251	6r	21.5906	0	1
+photometry	MJD	55421.282	6r	21.8721	0	1
+photometry	MJD	55428.166	6r	22.0443	0	1
+photometry	MJD	55428.211	6r	21.9044	0	1
+photometry	MJD	55431.171	6r	21.9978	0	1
+photometry	MJD	55434.175	6r	21.4232	0	1
+photometry	MJD	55434.219	6r	21.0069	0	1
+photometry	MJD	55442.242	6r	21.9881	0	1
+photometry	MJD	55180.521	6g	20.2121	0	1
+photometry	MJD	55192.563	6g	21.2281	0.11412	0
+photometry	MJD	55202.537	6g	20.4607	0	1
+photometry	MJD	55204.529	6g	20.791	0	1
+photometry	MJD	55207.538	6g	21.6347	0.11555	0
+photometry	MJD	55213.513	6g	21.8258	0.14335	0
+photometry	MJD	55225.483	6g	21.0266	0	1
+photometry	MJD	55250.550	6g	21.6986	0	1
+photometry	MJD	55268.529	6g	22.3982	0	1
+photometry	MJD	55270.393	6g	21.9753	0	1
+photometry	MJD	55271.521	6g	22.1108	0	1
+photometry	MJD	55273.328	6g	22.4561	0	1
+photometry	MJD	55282.453	6g	21.5729	0	1
+photometry	MJD	55284.464	6g	22.3703	0	1
+photometry	MJD	55290.424	6g	21.8779	0	1
+photometry	MJD	55297.481	6g	21.9817	0	1
+photometry	MJD	55181.563	6i	20.5886	0	1
+photometry	MJD	55208.526	6i	21.3262	0	1
+photometry	MJD	55250.554	6i	21.5006	0	1
+photometry	MJD	55268.532	6i	21.813	0	1
+photometry	MJD	55271.526	6i	21.6386	0	1
+photometry	MJD	55282.458	6i	21.07	0	1

@@ -1,0 +1,7 @@
+name	"GRB060218, SN2006aj"
+host	"<a href='http://goo.gl/r5FoNI'>SDSS J032139.69+165201.7</a>"
+citations	"<a href='http://adsabs.harvard.edu/abs/2006Natur.442.1008C'>Campana et al. 2006</a>*, <a href='http://adsabs.harvard.edu/abs/2013ApJ...769...85S'>Shcherbakov et al. 2013</a>&Dagger;"
+instruments	"Swift (UVOT, XRT)"
+redshift	"0.0335"
+claimedtype	"WD + IMBH"
+notes	""

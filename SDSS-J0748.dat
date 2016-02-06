@@ -1,0 +1,7 @@
+name	"SDSS J0748"
+host	"<a href='http://goo.gl/ydZdWr'>SDSS J074820.67+471214.3</a>"
+citations	"<a href='http://adsabs.harvard.edu/abs/2012ApJ...749..115W'>Wang et al. 2012</a>*&Dagger;"
+instruments	"SDSS"
+redshift	"0.0615"
+claimedtype	"TDE"
+notes	""

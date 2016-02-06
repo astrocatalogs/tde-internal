@@ -1,0 +1,7 @@
+name	"SDSS J1323"
+host	"<a href='http://goo.gl/E7Z5oS'>SDSS J132341.97+482701.3</a>"
+citations	"<a href='http://adsabs.harvard.edu/abs/2007A%26A...462L..49E'>Esquej et al. 2007</a>*&Dagger;"
+instruments	"XMM-Newton, Swift XRT, ALFOSC, ROSAT"
+redshift	"0.08754"
+claimedtype	"TDE"
+notes	"No emission or absorption features"

@@ -1,0 +1,7 @@
+name	"PTF-10iam"
+host	"<a href='http://goo.gl/Ljum2V'>SDSS J154530.83+540231.9</a>"
+citations	"<a href='http://arxiv.org/abs/1405.1415v1'>Arcavi et al. 2014</a>*&Dagger;"
+instruments	"P48 (R, g), P60 (g, r, i)"
+redshift	"0.109"
+claimedtype	"TDE"
+notes	"Significantly off-center from host galaxy"

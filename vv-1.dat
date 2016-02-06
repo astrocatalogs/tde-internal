@@ -1,0 +1,91 @@
+name	"TDE1, VV-1"
+host	"<a href='http://goo.gl/Smrlsj'>SDSS J234201.40+010629.2</a>"
+citations	"<a href='http://adsabs.harvard.edu/abs/2011ApJ...741...73V'>Van Velzen et al. 2011</a>*&Dagger;"
+instruments	"SDSS (u, g, r), GALEX (NUV, FUV), Magellan*"
+redshift	"0.136"
+claimedtype	"TDE"
+notes	""
+nh	2.3e20
+nhcorr	F
+restframe	T
+photometry	MJD	53693.21599	Su	22.600	1.140	0
+photometry	MJD	53693.21599	Sg	21.670	1.500	0
+photometry	MJD	53693.21599	Sr	21.740	1.200	1
+photometry	MJD	53693.21599	Si	22.050	0.200	1
+photometry	MJD	53704.19931	Su	21.960	1.400	1
+photometry	MJD	53704.19931	Sg	20.740	0.500	1
+photometry	MJD	53704.19931	Sr	20.740	0.500	1
+photometry	MJD	53704.19931	Si	21.890	2.100	0
+photometry	MJD	53974.29195	Su	22.110	0.080	0
+photometry	MJD	53974.29195	Sg	21.130	0.040	0
+photometry	MJD	53974.29195	Sr	21.130	0.040	0
+photometry	MJD	53974.29195	Si	21.800	0.140	0
+photometry	MJD	53989.29534	Su	22.650	0.100	0
+photometry	MJD	53989.29534	Sg	21.840	0.060	0
+photometry	MJD	53989.29534	Sr	21.840	0.060	0
+photometry	MJD	53989.29534	Si	23.030	0.360	0
+photometry	MJD	53997.39098	Su	22.180	0.190	0
+photometry	MJD	53997.39098	Sg	21.160	0.050	0
+photometry	MJD	53997.39098	Sr	21.160	0.050	0
+photometry	MJD	53997.39098	Si	23.220	0.280	0
+photometry	MJD	54000.27076	Su	22.140	0.100	0
+photometry	MJD	54000.27076	Sg	21.240	0.060	0
+photometry	MJD	54000.27076	Sr	21.240	0.060	0
+photometry	MJD	54000.27076	Si	22.100	0.210	0
+photometry	MJD	54007.32090	Su	22.230	0.120	0
+photometry	MJD	54007.32090	Sg	21.200	0.050	0
+photometry	MJD	54007.32090	Sr	21.200	0.050	0
+photometry	MJD	54007.32090	Si	23.040	0.300	0
+photometry	MJD	54009.24468	Su	22.170	0.170	0
+photometry	MJD	54009.24468	Sg	21.260	0.070	0
+photometry	MJD	54009.24468	Sr	21.260	0.070	0
+photometry	MJD	54009.24468	Si	22.250	0.630	0
+photometry	MJD	54011.30916	Su	22.330	0.170	0
+photometry	MJD	54011.30916	Sg	21.620	0.080	0
+photometry	MJD	54011.30916	Sr	21.620	0.080	0
+photometry	MJD	54011.30916	Si	22.030	0.230	0
+photometry	MJD	54011.30916	Su	22.230	0.140	0
+photometry	MJD	54011.30916	Sg	21.550	0.080	0
+photometry	MJD	54011.30916	Sr	21.550	0.080	0
+photometry	MJD	54011.30916	Si	23.380	0.290	0
+photometry	MJD	54019.25938	Su	22.300	0.170	0
+photometry	MJD	54019.25938	Sg	21.310	0.110	0
+photometry	MJD	54019.25938	Sr	21.310	0.110	0
+photometry	MJD	54019.25938	Si	23.770	0.200	0
+photometry	MJD	54025.30818	Su	22.170	3.730	0
+photometry	MJD	54025.30818	Sg	20.880	0.070	0
+photometry	MJD	54025.30818	Sr	20.880	0.070	0
+photometry	MJD	54025.30818	Si	22.300	0.600	1
+photometry	MJD	54025.30818	Su	21.760	0.220	0
+photometry	MJD	54025.30818	Sg	20.920	0.070	0
+photometry	MJD	54025.30818	Sr	20.920	0.070	0
+photometry	MJD	54025.30818	Si	22.290	0.400	1
+photometry	MJD	54029.23852	Su	22.240	0.140	0
+photometry	MJD	54029.23852	Sg	20.930	0.060	0
+photometry	MJD	54029.23852	Sr	20.930	0.060	0
+photometry	MJD	54029.23852	Si	23.020	0.360	0
+photometry	MJD	54031.22545	Su	22.160	0.200	0
+photometry	MJD	54031.22545	Sg	20.920	0.070	0
+photometry	MJD	54031.22545	Sr	20.920	0.070	0
+photometry	MJD	54031.22545	Si	22.890	0.360	0
+photometry	MJD	54036.23021	Su	22.210	0.140	0
+photometry	MJD	54036.23021	Sg	20.880	0.100	0
+photometry	MJD	54036.23021	Sr	20.880	0.100	0
+photometry	MJD	54036.23021	Si	22.090	0.740	0
+photometry	MJD	54039.22836	Su	22.410	0.190	0
+photometry	MJD	54039.22836	Sg	21.550	0.130	0
+photometry	MJD	54039.22836	Sr	21.550	0.130	0
+photometry	MJD	54039.22836	Si	22.160	0.530	0
+photometry	MJD	54048.22297	Su	22.270	0.210	0
+photometry	MJD	54048.22297	Sg	21.470	0.090	0
+photometry	MJD	54048.22297	Sr	21.470	0.090	0
+photometry	MJD	54048.22297	Si	23.560	0.240	0
+photometry	MJD	54052.22710	Su	23.620	0.890	0
+photometry	MJD	54052.22710	Sg	22.590	0.360	0
+photometry	MJD	54052.22710	Sr	22.590	0.360	0
+photometry	MJD	54052.22710	Si	22.360	0.400	1
+photometry	MJD	54054.24582	Su	23.870	0.260	0
+photometry	MJD	54054.24582	Sg	21.570	0.150	0
+photometry	MJD	54054.24582	Sr	21.570	0.150	0
+photometry	MJD	54769.00000	GF	21.720	0.160	0
+photometry	MJD	54769.00000	GN	21.415	0.096	0

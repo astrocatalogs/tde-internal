@@ -1,0 +1,7 @@
+name	"<a href='http://goo.gl/ImJCvu'>PTF-10iya</a>"
+host	"<a href='http://goo.gl/4zd5pm'>SDSS J143840.98+373933.4</a>"
+citations	"<a href='http://adsabs.harvard.edu/abs/2012MNRAS.420.2684C'>Cenko et al. 2012</a>*&Dagger;"
+instruments	"PTF (g, r, i), Swift (UVOT, XRT), WHT, Keck**"
+redshift	"0.22405"
+claimedtype	"TDE"
+notes	""

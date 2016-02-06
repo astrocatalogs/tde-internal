@@ -1,0 +1,8 @@
+name	"3XMM J152130.7+074916"
+host	"<a href='http://goo.gl/BSPj6n'>SDSS J152130.72+074916.5</a>"
+citations	"<a href='http://adsabs.harvard.edu/abs/2015ApJ...811...43L'>Lin et al. 2015</a>*&Dagger;"
+instruments	"Swift, XMM-Newton, Chandra "
+redshift	"0.17901"
+claimedtype	"TDE"
+notes	""
+nh	2.61e20

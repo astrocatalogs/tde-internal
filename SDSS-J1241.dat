@@ -1,0 +1,7 @@
+name	"SDSS J1241"
+host	"<a href='http://goo.gl/sXw6Mj'>SDSS J124134.25+442639.2</a>"
+citations	"<a href='http://adsabs.harvard.edu/abs/2012ApJ...749..115W'>Wang et al. 2012</a>*&Dagger;"
+instruments	"SDSS"
+redshift	"0.0419"
+claimedtype	"TDE"
+notes	""
