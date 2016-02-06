@@ -1,7 +1,0 @@
-name	"SDSS J1011"
-host	"<a href='http://goo.gl/slDppe'>SDSS J101152.98+544206.4</a>"
-citations	"<a href='http://arxiv.org/abs/1509.03640v1'>Runnoe et al. 2015</a>*&Dagger;"
-instruments	"SDSS, CSS, LINEAR, TDSS"
-redshift	"0.24608"
-claimedtype	"AGN variability"
-notes	"Bright for 6 years, large broad line region suggests not TDE"

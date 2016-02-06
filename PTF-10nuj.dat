@@ -1,7 +1,0 @@
-name	"PTF-10nuj"
-host	"<a href='http://goo.gl/vQS3TV'>SDSS J162624.66+544221.4</a>"
-citations	"<a href='http://arxiv.org/abs/1405.1415v1'>Arcavi et al. 2014</a>*&Dagger;"
-instruments	"P48 (R, g), P60 (g, r, i)"
-redshift	"0.132"
-claimedtype	"TDE"
-notes	"Significantly off-center from host galaxy"

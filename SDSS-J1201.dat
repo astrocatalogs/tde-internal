@@ -1,7 +1,0 @@
-name	"SDSS J1201"
-host	"<a href='http://goo.gl/2V8jIh'>SDSS J120136.02+300305.5</a>"
-citations	"<a href='http://adsabs.harvard.edu/abs/2012A%26A...541A.106S'>Saxton et al. 2012</a>*&Dagger;"
-instruments	"ROSAT&Dagger;, XMM-Newton, Swift-XRT, Calar Alto, WHT*"
-redshift	"0.146"
-claimedtype	"TDE"
-notes	""

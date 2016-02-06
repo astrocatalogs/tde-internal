@@ -1,7 +1,0 @@
-name	"SDSS J0939"
-host	"<a href='http://goo.gl/TgC7ES'>SDSS J093922.90+370944.0</a>"
-citations	"<a href='http://adsabs.harvard.edu/abs/2007A%26A...462L..49E'>Esquej et al. 2007</a>*&Dagger;"
-instruments	"SDSS, XMM-Newton, ROSAT"
-redshift	"0.18589"
-claimedtype	"TDE"
-notes	"Pre-TDE AGN"

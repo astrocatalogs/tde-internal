@@ -1,7 +1,0 @@
-name	"PTF-11glr"
-host	"<a href='http://goo.gl/vMMiVw'>SDSS J165406.16+412015.4</a>"
-citations	"<a href='http://arxiv.org/abs/1405.1415v1'>Arcavi et al. 2014</a>*&Dagger;"
-instruments	"P48 (R, g), P60 (g, r, i)"
-redshift	"0.207"
-claimedtype	"TDE"
-notes	"Large position uncertainty"

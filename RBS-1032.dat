@@ -1,7 +1,0 @@
-name	"RBS 1032"
-host	"<a href='http://goo.gl/NN9wNv'>SDSS J114726.69+494257.8</a>"
-citations	"<a href='http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1407.2928'>Maksym et al. 2015</a>*&Dagger;"
-instruments	"ROSAT, XMM-Newton"
-redshift	"0.026"
-claimedtype	"TDE"
-notes	""

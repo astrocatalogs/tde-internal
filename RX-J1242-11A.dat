@@ -1,7 +1,0 @@
-name	"RX J1242-11A"
-host	"<a href='http://goo.gl/xs7zAk'>RX J1242.6-1119A</a>"
-citations	"<a href='http://adsabs.harvard.edu/abs/1999A%26A...349L..45K'>Komossa and Greiner 1999</a>*&Dagger;"
-instruments	"ROSAT, XMM-Newton, Chandra, La Silla*"
-redshift	"0.05"
-claimedtype	"TDE"
-notes	""

@@ -1,7 +1,0 @@
-name	"SDSS J1311"
-host	"<a href='http://goo.gl/bVmsdK'>SDSS J131122.15-012345.6</a>"
-citations	"<a href='http://adsabs.harvard.edu/abs/2010ApJ...722.1035M'>Maksym, Ulmer, and Eracleous 2010</a>*&Dagger;"
-instruments	"XMM-Newton, Chandra, HET*"
-redshift	"0.18*"
-claimedtype	"TDE"
-notes	""

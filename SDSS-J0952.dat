@@ -1,7 +1,0 @@
-name	"SDSS J0952"
-host	"<a href='http://goo.gl/hgpD4h'>SDSS J095209.56+214313.3</a>"
-citations	"<a href='http://adsabs.harvard.edu/abs/2008ApJ...678L..13K'>Komossa et al. 2008</a>*&Dagger;"
-instruments	"2MASS, GALEX, GROND, Chandra, SDSS, OMR Xinglong"
-redshift	"0.0789"
-claimedtype	"TDE"
-notes	""
