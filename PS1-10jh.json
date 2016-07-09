@@ -2,7 +2,9 @@
 	"PS1-10jh":{
 		"name":"PS1-10jh",
 		"alias":[
-			"value":"PS1-10jh"
+			{
+				"value":"PS1-10jh"
+			}
 		],
 		"sources":[
 			{
