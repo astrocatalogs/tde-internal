@@ -1,0 +1,36 @@
+{
+	"iPTF16fnl":{
+		"name": "iPTF16fnl",
+		"sources": [
+			{
+				"name":"ATel #9433",
+				"url":"http://www.astronomerstelegram.org/?read=9433"
+			}
+		],
+		"ra": [
+			{
+				"value":"00:29:57.04"
+			}
+		],
+		"dec": [
+			{
+				"value":"+32:53:37.5"
+			}
+		],
+		"host": [
+			{
+				"value":"Mrk 950"
+			}
+		],
+		"discoverdate": [
+			{
+				"value":"2016/08/26"
+			}
+		],
+		"redshift": [
+			{
+				"value":"0.0163"
+			}
+		]
+	}
+}
