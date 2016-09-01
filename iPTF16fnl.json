@@ -31,6 +31,20 @@
 			{
 				"value":"0.0163"
 			}
+		],
+		"photometry":[
+			{
+				"time":"57626",
+				"u_time":"MJD",
+				"magnitude":"17.4",
+				"band":"g"
+			},
+			{
+				"time":"57626",
+				"u_time":"MJD",
+				"magnitude":"17.7",
+				"band":"r"
+			}
 		]
 	}
 }

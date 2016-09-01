@@ -1,0 +1,22 @@
+{
+	"D3-13":{
+		"name":"D3-13",
+		"sources":[
+			{
+				"bibcode":"2008ApJ...676..944G"
+			}
+		],
+		"ra":[
+			{
+				"value":"214.8741",
+				"u_value":"floatdegrees"
+			}
+		],
+		"dec":[
+			{
+				"value":"52.8684",
+				"u_value":"floatdegrees"
+			}
+		]
+	}
+}

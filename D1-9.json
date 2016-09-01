@@ -1,0 +1,22 @@
+{
+	"D1-9":{
+		"name":"D1-9",
+		"sources":[
+			{
+				"bibcode":"2008ApJ...676..944G"
+			}
+		],
+		"ra":[
+			{
+				"value":"36.3207",
+				"u_value":"floatdegrees"
+			}
+		],
+		"dec":[
+			{
+				"value":"-4.5497",
+				"u_value":"floatdegrees"
+			}
+		]
+	}
+}

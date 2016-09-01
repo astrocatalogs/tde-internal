@@ -1,6 +1,6 @@
 {
-	"TDE1":{
-		"name":"TDE1",
+	"TDE2":{
+		"name":"TDE2",
 		"sources":[
 			{
 				"bibcode":"2011ApJ...741...73V"
@@ -8,18 +8,18 @@
 		],
 		"alias":[
 			{
-				"value":"TDE1"
+				"value":"TDE2"
 			}
 		],
 		"ra":[
 			{
-				"value":"350.95257",
+				"value":"355.50586",
 				"u_value":"floatdegrees"
 			}
 		],
 		"dec":[
 			{
-				"value":"-1.1361928",
+				"value":"1.1081316",
 				"u_value":"floatdegrees"
 			}
 		]
