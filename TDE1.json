@@ -1,0 +1,25 @@
+{
+	"TDE1":{
+		"name":"TDE1",
+		"sources":[
+			"bibcode":""
+		],
+		"alias":[
+			{
+				"value":"TDE1"
+			}
+		],
+		"ra":[
+			{
+				"value":"350.95257"
+				"unit":"floatdegrees"
+			}
+		],
+		"dec":[
+			{
+				"value":"-1.1361928"
+				"unit":"floatdegrees"
+			}
+		]
+	}
+}
