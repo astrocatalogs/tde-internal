@@ -1,0 +1,25 @@
+{
+	"OGLE16aaa":{
+		"name":"OGLE16aaa",
+		"sources":[
+			{
+				"bibcode":"2016arXiv160603125W"
+			}
+		],
+		"alias":[
+			{
+				"value":"OGLE16aaa"
+			}
+		],
+		"ra":[
+			{
+				"value":"1:07:20.88"
+			}
+		],
+		"dec":[
+			{
+				"value":"-64:16:20.7"
+			}
+		]
+	}
+}
