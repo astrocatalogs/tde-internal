@@ -1,0 +1,27 @@
+{
+	"Dougie":{
+		"name":"Dougie",
+		"sources":[
+			{
+				"bibcode":"2015ApJ...798...12V"
+			}
+		],
+		"alias":[
+			{
+				"value":"Dougie"
+			}
+		],
+		"ra":[
+			{
+				"value":"12:08:47.87",
+				"e_value":"0.02"
+			}
+		],
+		"dec":[
+			{
+				"value":"+43:01:20.1",
+				"e_value":"0.09"
+			}
+		]
+	}
+}
