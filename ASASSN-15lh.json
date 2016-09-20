@@ -1,0 +1,28 @@
+{
+	"ASASSN-15lh":{
+		"name":"ASASSN-15lh",
+		"sources":[
+			{
+				"bibcode":"2016Sci...351..257D",
+				"alias":"1"
+			},
+			{
+				"bibcode":"2016arXiv160902927L",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"ASASSN-15lh"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE"
+			},
+			{
+				"value":"SLSN"
+			}
+		]
+	}
+}
