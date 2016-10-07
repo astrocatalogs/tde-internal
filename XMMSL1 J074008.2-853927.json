@@ -3,27 +3,32 @@
 		"name":"XMMSL1 J074008.2-853927",
 		"sources":[
 			{
-				"arxivid":"1610.01788"
+				"arxivid":"1610.01788",
+				"alias":"1"
 			}
 		],
 		"ra":[
 			{
-				"value":"07:40:08.43"
+				"value":"07:40:08.43",
+				"source":"1"
 			}
 		],
 		"dec":[
 			{
-				"value":"+85:39:31.4"
+				"value":"+85:39:31.4",
+				"source":"1"
 			}
 		],
 		"host":[
 			{
-				"value":"2MASX 07400785-8539307"
+				"value":"2MASX 07400785-8539307",
+				"source":"1"
 			}
 		],
 		"redshift":[
 			{
-				"value":"0.0173"
+				"value":"0.0173",
+				"source":"1"
 			}
 		]
 	}
