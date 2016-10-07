@@ -19,6 +19,18 @@
 				"source":"1"
 			}
 		],
+		"hostra":[
+			{
+				"value":"07:40:08.2",
+				"source":"1"
+			}
+		],
+		"hostdec":[
+			{
+				"value":"+85:39:27",
+				"source":"1"
+			}
+		],
 		"host":[
 			{
 				"value":"2MASX 07400785-8539307",
