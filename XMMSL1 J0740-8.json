@@ -1,10 +1,24 @@
 {
-	"XMMSL1 J074008.2-853927":{
-		"name":"XMMSL1 J074008.2-853927",
+	"XMMSL1 J0740-8":{
+		"name":"XMMSL1 J0740-8",
 		"sources":[
 			{
-				"arxivid":"1610.01788",
+				"bibcode":"2016arXiv161001788S",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2016arXiv161003861A",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"XMMSL1 J074008.2-853927",
+				"source":"1"
+			},
+			{
+				"value":"XMMSL1 J0740-85",
+				"source":"2"
 			}
 		],
 		"ra":[
