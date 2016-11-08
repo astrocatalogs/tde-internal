@@ -1,0 +1,20 @@
+{
+	"2MASX J0203":{
+		"name":"2MASX J0203",
+		"sources":[
+			{
+				"name":"Auchettl 2016"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"AGN"
+			}
+		],
+		"alias":[
+			{
+				"value":"2MASX J0203"
+			}
+		]
+	}
+}
