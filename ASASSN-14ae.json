@@ -1,6 +1,14 @@
 {
 	"ASASSN-14ae":{
 		"name":"ASASSN-14ae",
+		"alias":[
+			{
+				"value":"ASASSN-14ae"
+			},
+			{
+				"value":"iPTF14aiv"
+			}
+		],
 		"errors":[
 			{
 				"value":"ASAS-SN Supernovae",
