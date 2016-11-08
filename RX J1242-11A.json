@@ -1,0 +1,23 @@
+{
+	"RX J1242-11A":{
+		"name":"RX J1242-11A",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"RX J1242-11A",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE?",
+				"source":"1"
+			}
+		]
+	}
+}

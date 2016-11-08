@@ -1,0 +1,23 @@
+{
+	"SDSSJ1323":{
+		"name":"SDSSJ1323",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SDSSJ1323",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE?",
+				"source":"1"
+			}
+		]
+	}
+}

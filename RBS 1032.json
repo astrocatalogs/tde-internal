@@ -1,0 +1,23 @@
+{
+	"RBS 1032":{
+		"name":"RBS 1032",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"RBS 1032",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Unknown",
+				"source":"1"
+			}
+		]
+	}
+}

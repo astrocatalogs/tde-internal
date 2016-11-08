@@ -1,0 +1,23 @@
+{
+	"ASASSN-14li":{
+		"name":"ASASSN-14li",
+		"sources":[
+			{
+				"bibcode":"2015Natur.526..542M",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"ASASSN-14li",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"MS + SMBH",
+				"source":"1"
+			}
+		]
+	}
+}

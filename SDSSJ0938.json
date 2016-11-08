@@ -1,0 +1,23 @@
+{
+	"SDSSJ0938":{
+		"name":"SDSSJ0938",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SDSSJ0938",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"AGN?",
+				"source":"1"
+			}
+		]
+	}
+}

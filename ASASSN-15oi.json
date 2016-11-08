@@ -1,0 +1,23 @@
+{
+	"ASASSN-15oi":{
+		"name":"ASASSN-15oi",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"ASASSN-15oi",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE?",
+				"source":"1"
+			}
+		]
+	}
+}

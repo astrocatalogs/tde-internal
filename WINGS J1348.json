@@ -1,0 +1,23 @@
+{
+	"WINGS J1348":{
+		"name":"WINGS J1348",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"WINGS J1348",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"AGN?",
+				"source":"1"
+			}
+		]
+	}
+}

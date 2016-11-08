@@ -1,0 +1,23 @@
+{
+	"RX J1420+53":{
+		"name":"RX J1420+53",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"RX J1420+53",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE?",
+				"source":"1"
+			}
+		]
+	}
+}

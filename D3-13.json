@@ -3,19 +3,32 @@
 		"name":"D3-13",
 		"sources":[
 			{
-				"bibcode":"2008ApJ...676..944G"
+				"name":"Auchettl 2016",
+				"alias":"1"
+			},
+			{
+				"bibcode":"2008ApJ...676..944G",
+				"alias":"2"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE?",
+				"source":"1"
 			}
 		],
 		"ra":[
 			{
 				"value":"214.8741",
-				"u_value":"floatdegrees"
+				"u_value":"floatdegrees",
+				"source":"2"
 			}
 		],
 		"dec":[
 			{
 				"value":"52.8684",
-				"u_value":"floatdegrees"
+				"u_value":"floatdegrees",
+				"source":"2"
 			}
 		]
 	}

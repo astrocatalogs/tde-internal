@@ -1,0 +1,23 @@
+{
+	"SDSSJ1011":{
+		"name":"SDSSJ1011",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SDSSJ1011",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Quasar",
+				"source":"1"
+			}
+		]
+	}
+}
