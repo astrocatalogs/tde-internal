@@ -1,0 +1,20 @@
+{
+	"3XMM J152130.7+074916":{
+		"name":"3XMM J152130.7+074916",
+		"sources":[
+			{
+				"name":"Auchettl 2016"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"AGN"
+			}
+		],
+		"alias":[
+			{
+				"value":"3XMM J152130.7+074916"
+			}
+		]
+	}
+}

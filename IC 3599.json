@@ -1,6 +1,11 @@
 {
 	"IC 3599":{
 		"name":"IC 3599",
+		"sources":[
+			{
+				"name":"Auchettl 2016"
+			}
+		],
 		"alias":[
 			{
 				"value":"IC 3599"
