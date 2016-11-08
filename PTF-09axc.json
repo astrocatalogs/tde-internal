@@ -1,0 +1,23 @@
+{
+	"PTF-09axc":{
+		"name":"PTF-09axc",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PTF-09axc",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"AGN",
+				"source":"1"
+			}
+		]
+	}
+}

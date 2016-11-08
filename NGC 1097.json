@@ -1,0 +1,23 @@
+{
+	"NGC 1097":{
+		"name":"NGC 1097",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"NGC 1097",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"AGN",
+				"source":"1"
+			}
+		]
+	}
+}

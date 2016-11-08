@@ -1,0 +1,23 @@
+{
+	"PTF-10iam":{
+		"name":"PTF-10iam",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PTF-10iam",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"II Pec",
+				"source":"1"
+			}
+		]
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"GRB 060218A":{
+		"name":"GRB 060218A",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			},
+			{
+				"bibcode":"2013ApJ...769...85S",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"GRB 060218A",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"GRB",
+				"source":"1"
+			},
+			{
+				"value":"WD + IMBH",
+				"source":"2"
+			}
+		]
+	}
+}

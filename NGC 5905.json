@@ -1,0 +1,23 @@
+{
+	"NGC 5905":{
+		"name":"NGC 5905",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"NGC 5905",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"AGN",
+				"source":"1"
+			}
+		]
+	}
+}

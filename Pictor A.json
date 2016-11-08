@@ -1,0 +1,23 @@
+{
+	"Pictor A":{
+		"name":"Pictor A",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"Pictor A",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"AGN",
+				"source":"1"
+			}
+		]
+	}
+}

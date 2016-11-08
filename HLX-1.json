@@ -1,0 +1,35 @@
+{
+	"HLX-1":{
+		"name":"HLX-1",
+		"sources":[
+			{
+				"name":"Auchettl 2016",
+				"alias":"1"
+			},
+			{
+				"bibcode":"2015ApJ...811...23Y",
+				"alias":"2"
+			},
+			{
+				"bibcode":"2011ApJ...735...89L",
+				"alias":"3"
+			}
+		],
+		"alias":[
+			{
+				"value":"HLX-1",
+				"source":"1,2,3"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"LMXB",
+				"source":"1,2"
+			},
+			{
+				"value":"MS + IMBH",
+				"source":"3"
+			}
+		]
+	}
+}
