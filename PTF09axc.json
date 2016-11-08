@@ -1,6 +1,6 @@
 {
-	"PTF-09axc":{
-		"name":"PTF-09axc",
+	"PTF09axc":{
+		"name":"PTF09axc",
 		"sources":[
 			{
 				"name":"Auchettl 2016",
@@ -9,7 +9,7 @@
 		],
 		"alias":[
 			{
-				"value":"PTF-09axc",
+				"value":"PTF09axc",
 				"source":"1"
 			}
 		],

@@ -9,11 +9,22 @@
 			{
 				"bibcode":"2013ApJ...769...85S",
 				"alias":"2"
+			},
+			{
+				"name":"IAUC 8674",
+				"bibcode":"2006IAUC.8674....2S",
+				"reference":"Soderberg, Berger, & Schmidt (2006)",
+				"url":"http://www.cbat.eps.harvard.edu/iauc/08600/08674.html#Item2",
+				"alias":"3"
 			}
 		],
 		"alias":[
 			{
 				"value":"GRB 060218A",
+				"source":"1"
+			},
+			{
+				"value":"SN2006aj",
 				"source":"1"
 			}
 		],
@@ -25,6 +36,20 @@
 			{
 				"value":"WD + IMBH",
 				"source":"2"
+			}
+		],
+		"ra":[
+			{
+				"value":"03:21:39.71",
+				"u_value":"hours",
+				"source":"3"
+			}
+		],
+		"dec":[
+			{
+				"value":"+16:52:02.6",
+				"u_value":"degrees",
+				"source":"3"
 			}
 		]
 	}

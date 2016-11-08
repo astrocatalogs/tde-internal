@@ -1,6 +1,6 @@
 {
-	"PTF-10iam":{
-		"name":"PTF-10iam",
+	"PTF10iam":{
+		"name":"PTF10iam",
 		"sources":[
 			{
 				"name":"Auchettl 2016",
@@ -9,7 +9,7 @@
 		],
 		"alias":[
 			{
-				"value":"PTF-10iam",
+				"value":"PTF10iam",
 				"source":"1"
 			}
 		],

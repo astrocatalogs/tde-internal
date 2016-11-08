@@ -1,0 +1,31 @@
+{
+	"Swift J1644":{
+		"name":"Swift J1644",
+		"sources":[
+			{
+				"bibcode":"2011Sci...333..203B",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"Swift J1644",
+				"source":"1"
+			},
+			{
+				"value":"Swift J164449.3+573451",
+				"source":"1"
+			},
+			{
+				"value":"GRB 110328A",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"MS + SMBH",
+				"source":"1"
+			}
+		]
+	}
+}
