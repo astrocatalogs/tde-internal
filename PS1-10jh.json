@@ -14,7 +14,11 @@
 		],
 		"claimedtype":[
 			{
-				"value":"He + SMBH, MS + SMBH",
+				"value":"MS + SMBH",
+				"source":"1"
+			},
+			{
+				"value":"He + SMBH",
 				"source":"1"
 			}
 		],

@@ -3,7 +3,7 @@
 		"name":"PTF10iam",
 		"sources":[
 			{
-				"name":"Auchettl 2016",
+				"bibcode":"2016ApJ...819...35A",
 				"alias":"1"
 			}
 		],
@@ -15,7 +15,11 @@
 		],
 		"claimedtype":[
 			{
-				"value":"II Pec",
+				"value":"II",
+				"source":"1"
+			},
+			{
+				"value":"Ia Pec",
 				"source":"1"
 			}
 		]
