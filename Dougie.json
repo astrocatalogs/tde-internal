@@ -22,6 +22,11 @@
 				"value":"+43:01:20.1",
 				"e_value":"0.09"
 			}
+		],
+		"claimedtype":[
+			{
+				"value":"MS + SMBH"
+			}
 		]
 	}
 }
