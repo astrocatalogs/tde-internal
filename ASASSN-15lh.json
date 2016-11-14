@@ -18,10 +18,12 @@
 		],
 		"claimedtype":[
 			{
-				"value":"TDE"
+				"value":"MS + SMBH",
+				"source":"2"
 			},
 			{
-				"value":"SLSN"
+				"value":"SLSN",
+				"source":"1"
 			}
 		]
 	}
