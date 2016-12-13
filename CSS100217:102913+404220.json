@@ -32,6 +32,24 @@
 				"value":"TDE",
 				"source":"2"
 			}
+		],
+		"host":[
+			{
+				"value":"SDSS J102912.58+404219.7",
+				"source":"2"
+			}
+		],
+		"hostra":[
+			{
+				"value":"10:29:12.574",
+				"source":"2"
+			}
+		],
+		"hostdec":[
+			{
+				"value":"+40:42:19.76",
+				"source":"2"
+			}
 		]
 	}
 }
