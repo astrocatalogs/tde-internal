@@ -1,0 +1,37 @@
+{
+	"CSS100217:102913+404220":{
+		"name":"CSS100217:102913+404220",
+		"sources":[
+			{
+				"bibcode":"2010ATel.2544....1D",
+				"alias":"1"
+			},
+			{
+				"bibcode":"2011ApJ...735..106D",
+				"alias":"2"
+			}
+		],
+		"ra":[
+			{
+				"value":"10:29:12.56",
+				"source":"1"
+			}
+		],
+		"dec":[
+			{
+				"value":"40:42:20.0",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"IIn",
+				"source":"2"
+			},
+			{
+				"value":"TDE",
+				"source":"2"
+			}
+		]
+	}
+}
