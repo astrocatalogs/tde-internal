@@ -15,6 +15,10 @@
 		],
 		"claimedtype":[
 			{
+				"value":"TDE?",
+				"source":"1"
+			},
+			{
 				"value":"AGN?",
 				"source":"1"
 			}
