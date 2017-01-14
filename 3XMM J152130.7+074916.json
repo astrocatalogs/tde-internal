@@ -9,6 +9,9 @@
 		],
 		"claimedtype":[
 			{
+				"value":"TDE"
+			},
+			{
 				"value":"AGN"
 			}
 		],
