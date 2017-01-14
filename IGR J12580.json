@@ -1,0 +1,20 @@
+{
+	"IGR J12580":{
+		"name":"IGR J12580",
+		"sources":[
+			{
+				"value":"2016arXiv161102291A"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"AGN"
+			}
+		],
+		"alias":[
+			{
+				"value":"IGR J12580"
+			}
+		]
+	}
+}
