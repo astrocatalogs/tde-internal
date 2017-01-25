@@ -1,0 +1,22 @@
+{
+	"OGLE17aaj":{
+		"name":"OGLE17aaj",
+		"sources":[
+			{
+				"name":"ATel #9977",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"OGLE17aaj"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE"
+			}
+		]
+	}
+}
+
