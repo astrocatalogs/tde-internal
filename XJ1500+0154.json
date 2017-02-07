@@ -38,6 +38,16 @@
 			{
 				"value":"01:54:53.8"
 			}
+		],
+		"claimedtype":[
+			{
+				"value":"MS + SMBH"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.145"
+			}
 		]
 	}
 }
