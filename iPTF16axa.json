@@ -1,0 +1,45 @@
+{
+	"iPTF16axa":{
+		"name":"iPTF16axa",
+		"sources":[
+			{
+				"arxivid":"1703.01299"
+			}
+		],
+		"alias":[
+			{
+				"value":"iPTF16axa"
+			}
+		],
+		"ra":[
+			{
+				"value":"17:03:34.36"
+			}
+		],
+		"dec":[
+			{
+				"value":"+30:35:36.8"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.108"
+			}
+		],
+		"host":[
+			{
+				"value":"SDSS J170334.34+303536.6"
+			}
+		],
+		"hostra":[
+			{
+				"value":"17:03:34.34"
+			}
+		],
+		"hostdec":[
+			{
+				"value":"+30:35:36.6"
+			}
+		]
+	}
+}
