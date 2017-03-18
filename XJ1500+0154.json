@@ -3,7 +3,7 @@
 		"name":"XJ1500+0154",
 		"sources":[
 			{
-				"bibcode":"2017arXiv170200792L"
+				"bibcode":"2017NatAs...1E..33L"
 			}
 		],
 		"alias":[
@@ -48,6 +48,30 @@
 			{
 				"value":"0.145"
 			}
+		],
+		"photometry":[
+			{"telescope":"ROSAT",      "time":"1998-01-18", "instrument":"HRI & 13\farcm8 & 1.9 & 10$\arcsec$ & $0^{+3.8}$\\
+			{"telescope":"XMM-Newton", "time":"2005-07-23", "instrument":"pn/M1/M2 & 13\farcm5 & 22/33/33 & 20$\arcsec$/20$\arcsec$/20$\arcsec$ &$1.45\pm0.40$/$0.74\pm0.20$/$0.21\pm0.15$\\
+			{"telescope":"XMM-Newton", "time":"2009-02-12", "instrument":"pn/M2 & 12\farcm5 & 43/64 & 20$\arcsec$/20$\arcsec$ &$37.4\pm1.0$/$11.1\pm0.4$\\
+			{"telescope":"XMM-Newton", "time":"2009-02-18", "instrument":"pn/M2 & 12\farcm5 & 42/64 & 20$\arcsec$/20$\arcsec$ &$35.6\pm0.9$/$9.7\pm0.4$\\
+			{"telescope":"Chandra",    "time":"2005-04-02", "instrument":"ACIS-S1 &  12\farcm4 & 48 & 12\farcs4 & $0^{+0.28}$\\
+			{"telescope":"Chandra",    "time":"2008-06-05", "instrument":"ACIS-I3 &  14\farcm6 & 99 & 16\farcs7 & $11.1\pm0.3$\\
+			{"telescope":"Chandra",    "time":"2011-03-28", "instrument":"ACIS-S1 &  10\farcm9 & 74 & 13\farcs4 & $13.8\pm0.4$\\
+			{"telescope":"Chandra",    "time":"2011-03-30", "instrument":"ACIS-S1 &  10\farcm9 & 45 & 13\farcs4 &$13.9\pm0.6$\\
+			{"telescope":"Chandra",    "time":"2011-03-31", "instrument":"ACIS-S1 &  10\farcm9 & 36 & 13\farcs4 &$14.2\pm0.6$\\
+			{"telescope":"Chandra",    "time":"2011-04-05", "instrument":"ACIS-S1 &  10\farcm9 & 143 & 13\farcs4 & $13.4\pm0.3$\\
+			{"telescope":"Chandra",    "time":"2011-04-07", "instrument":"ACIS-S1 &  10\farcm9 & 32 & 13\farcs4 &$15.3\pm0.7$\\
+			{"telescope":"Chandra",    "time":"2011-04-08", "instrument":"ACIS-S1 &  10\farcm9 & 118 & 13\farcs4 &$13.8\pm0.3$\\
+			{"telescope":"Chandra",    "time":"2011-04-10", "instrument":"ACIS-S1 &  10\farcm9 & 43 & 13\farcs4 &$13.3\pm0.6$\\
+			{"telescope":"Chandra",    "time":"2015-02-23", "instrument":"ACIS-S3 & 0\farcm3 & 37 & 1\farcs6 & $4.9\pm0.4$\\
+			{"telescope":"Swift",      "time":"2014-03-28", "instrument":"XRT & 1\farcm0 & 8.7 & 25$\arcsec$ & $1.9\pm0.5$\\
+			{"telescope":"Swift",      "time":"2016-02-03", "instrument":"XRT & 3\farcm8 & 3.1 & 25$\arcsec$ & \multirow{4}{*}{$0.7^{+1.3}$} \\
+			{"telescope":"Swift",      "time":"2016-02-04", "instrument":"XRT & 2\farcm0 & 0.3 & 25$\arcsec$ &\\
+			{"telescope":"Swift",      "time":"2016-02-05", "instrument":"XRT & 1\farcm5 & 2.7 & 25$\arcsec$ &\\
+			{"telescope":"Swift",      "time":"2016-02-07", "instrument":"XRT & 1\farcm3 & 2.9 & 25$\arcsec$ &\\
+			{"telescope":"Swift",      "time":"2016-02-10", "instrument":"XRT & 1\farcm2 & 3.0 & 25$\arcsec$ &\multirow{3}{*}{$2.8\pm0.7$}\\
+			{"telescope":"Swift",      "time":"2016-02-12", "instrument":"XRT & 1\farcm0 & 2.3 & 25$\arcsec$ &\\
+			{"telescope":"Swift",      "time":"2016-02-14", "instrument":"XRT & 1\farcm4 & 1.4 & 25$\arcsec$ &\\
 		]
 	}
 }
