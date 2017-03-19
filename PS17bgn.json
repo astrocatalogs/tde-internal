@@ -1,0 +1,15 @@
+{
+	"PS17bgn":{
+		"name":"PS17bgn",
+		"sources":[
+			{
+				"name":"ATel 10177"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS17bgn"
+			}
+		]
+	}
+}
