@@ -13,6 +13,35 @@
 			{
 				"value":"AT2017bcc"
 			}
+		],
+		"host":[
+			{
+				"value":"SDSS J113152.97+295944.8"
+			}
+		],
+		"hostra":[
+			{
+				"value":"11:31:52.97"
+			}
+		],
+		"hostdec":[
+			{
+				"value":"29:59:44.8"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.133"
+			}
+		],
+		"photometry":[
+			{"time":"2017-03-10", "telescope":"Swift", "instrument":"UVOT", "band":"W2", "magnitude":"18.59", "e_magnitude":"0.11"},
+			{"time":"2017-03-10", "telescope":"Swift", "instrument":"UVOT", "band":"M2", "magnitude":"18.64", "e_magnitude":"0.11"},
+			{"time":"2017-03-10", "telescope":"Swift", "instrument":"UVOT", "band":"W1", "magnitude":"18.61", "e_magnitude":"0.15"},
+			{"time":"2017-03-10", "telescope":"Swift", "instrument":"UVOT", "band":"U",  "magnitude":"18.46", "e_magnitude":"0.17"},
+			{"time":"2017-03-10", "telescope":"Swift", "instrument":"UVOT", "band":"B",  "magnitude":"18.90", "e_magnitude":"0.17"},
+			{"time":"2017-03-10", "telescope":"Swift", "instrument":"UVOT", "band":"V",  "magnitude":"18.01", "e_magnitude":"0.20"},
+			{"time":"2017-03-10", "telescope":"Swift", "instrument":"XRT", "counts":"0.0286", "e_counts":"0.0037"}
 		]
 	}
 }
