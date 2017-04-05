@@ -10,6 +10,10 @@
 			{
 				"bibcode":"2012Natur.485..217G",
 				"alias":"1"
+			},
+			{
+				"bibcode":"2015ApJ...815L...5G",
+				"alias":"2"
 			}
 		],
 		"claimedtype":[
@@ -44,6 +48,11 @@
 			{
 				"value":"0.1696",
 				"source":"1"
+			}
+		],
+		"photometry":[
+			{
+				"time":"56821", "magnitude":"23.70", "e_magnitude":"0.12", "band":"F225W", "instrument":"UVIS", "telescope":"HST", "source":"2"
 			}
 		]
 	}
