@@ -1,0 +1,17 @@
+{
+	"SN2017bcc":{
+		"name":"SN2017bcc",
+		"claimedtype":[
+			{
+				"value":"SLSN-I?"
+			}
+		],
+		"errors":[
+			{
+				"value":"Transient Name Server",
+				"kind":"name",
+				"extra":"claimedtype"
+			}
+		]
+	}
+}
