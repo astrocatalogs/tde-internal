@@ -7,6 +7,14 @@
 				"url":"http://www.astronomerstelegram.org/?read=9433"
 			}
 		],
+		"alias":[
+			{
+				"value":"iPTF16fnl"
+			},
+			{
+				"value":"AT2016fnl"
+			}
+		],
 		"ra": [
 			{
 				"value":"00:29:57.04"
