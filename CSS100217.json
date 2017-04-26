@@ -9,6 +9,10 @@
 			{
 				"bibcode":"2011ApJ...735..106D",
 				"alias":"2"
+			},
+			{
+				"bibcode":"2017arXiv170307816B",
+				"alias":"3"
 			}
 		],
 		"alias":[
@@ -47,7 +51,7 @@
 			},
 			{
 				"value":"TDE?",
-				"source":"2"
+				"source":"2,3"
 			}
 		],
 		"host":[
