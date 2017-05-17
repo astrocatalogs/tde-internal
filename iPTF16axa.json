@@ -182,7 +182,7 @@
 			},
 			{
 				"time":"57548.510",
-				"band":"gp",
+				"band":"g",
 				"e_magnitude":"0.137",
 				"magnitude":"20.119",
 				"system":"Vega",
@@ -192,7 +192,7 @@
 			},
 			{
 				"time":"57548.514",
-				"band":"rp",
+				"band":"r",
 				"e_magnitude":"0.391",
 				"magnitude":"19.999",
 				"system":"Vega",
@@ -202,7 +202,7 @@
 			},
 			{
 				"time":"57548.527",
-				"band":"ip",
+				"band":"i",
 				"e_magnitude":"0.378",
 				"magnitude":"20.046",
 				"system":"Vega",
@@ -316,7 +316,7 @@
 			},
 			{
 				"time":"57555.590",
-				"band":"gp",
+				"band":"g",
 				"e_magnitude":"0.157",
 				"magnitude":"20.579",
 				"system":"Vega",
@@ -326,7 +326,7 @@
 			},
 			{
 				"time":"57555.599",
-				"band":"ip",
+				"band":"i",
 				"e_magnitude":"0.357",
 				"magnitude":"19.796",
 				"system":"Vega",
@@ -535,7 +535,7 @@
 			},
 			{
 				"time":"57574.502",
-				"band":"gp",
+				"band":"g",
 				"e_magnitude":"0.108",
 				"magnitude":"20.918",
 				"system":"Vega",
@@ -545,7 +545,7 @@
 			},
 			{
 				"time":"57574.512",
-				"band":"rp",
+				"band":"r",
 				"e_magnitude":"0.283",
 				"magnitude":"20.543",
 				"system":"Vega",
@@ -555,7 +555,7 @@
 			},
 			{
 				"time":"57574.519",
-				"band":"ip",
+				"band":"i",
 				"e_magnitude":"0.311",
 				"magnitude":"20.586",
 				"system":"Vega",
@@ -609,7 +609,7 @@
 			},
 			{
 				"time":"57581.465",
-				"band":"gp",
+				"band":"g",
 				"e_magnitude":"0.122",
 				"magnitude":"20.931",
 				"system":"Vega",
@@ -619,7 +619,7 @@
 			},
 			{
 				"time":"57581.474",
-				"band":"rp",
+				"band":"r",
 				"e_magnitude":"0.297",
 				"magnitude":"20.671",
 				"system":"Vega",
@@ -629,7 +629,7 @@
 			},
 			{
 				"time":"57581.482",
-				"band":"ip",
+				"band":"i",
 				"e_magnitude":"0.326",
 				"magnitude":"20.642",
 				"system":"Vega",
@@ -762,7 +762,7 @@
 			},
 			{
 				"time":"57587.472",
-				"band":"gp",
+				"band":"g",
 				"e_magnitude":"0.274",
 				"magnitude":"20.612",
 				"system":"Vega",
@@ -772,7 +772,7 @@
 			},
 			{
 				"time":"57587.480",
-				"band":"rp",
+				"band":"r",
 				"e_magnitude":"0.339",
 				"magnitude":"20.580",
 				"system":"Vega",
@@ -782,7 +782,7 @@
 			},
 			{
 				"time":"57587.489",
-				"band":"ip",
+				"band":"i",
 				"e_magnitude":"0.462",
 				"magnitude":"20.537",
 				"system":"Vega",
@@ -951,7 +951,7 @@
 			},
 			{
 				"time":"57595.453",
-				"band":"gp",
+				"band":"g",
 				"e_magnitude":"0.278",
 				"magnitude":"21.310",
 				"system":"Vega",
@@ -961,7 +961,7 @@
 			},
 			{
 				"time":"57595.462",
-				"band":"rp",
+				"band":"r",
 				"e_magnitude":"0.342",
 				"magnitude":"20.603",
 				"system":"Vega",
@@ -971,7 +971,7 @@
 			},
 			{
 				"time":"57595.470",
-				"band":"ip",
+				"band":"i",
 				"e_magnitude":"0.408",
 				"magnitude":"20.747",
 				"system":"Vega",
@@ -1728,4 +1728,3 @@
 		]
 	}
 }
-
