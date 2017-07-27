@@ -613,7 +613,7 @@
 				"band":"r",
 				"e_magnitude":"0.36",
 				"instrument":"SDSS",
-				"magnitude":"23.09,
+				"magnitude":"23.09",
 				"system":"AB",
 				"telescope":"SDSS",
 				"u_time":"MJD",
