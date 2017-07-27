@@ -3,24 +3,28 @@
 		"name":"TDE1",
 		"sources":[
 			{
-				"bibcode":"2011ApJ...741...73V"
+				"bibcode":"2011ApJ...741...73V",
+				"alias":"1"
 			}
 		],
 		"alias":[
 			{
-				"value":"TDE1"
+				"value":"TDE1",
+				"source":"1"
 			}
 		],
 		"ra":[
 			{
 				"value":"355.50586",
-				"u_value":"floatdegrees"
+				"u_value":"floatdegrees",
+				"source":"1"
 			}
 		],
 		"dec":[
 			{
 				"value":"1.1081316",
-				"u_value":"floatdegrees"
+				"u_value":"floatdegrees",
+				"source":"1"
 			}
 		],
 		"photometry":[
