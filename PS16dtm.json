@@ -1,0 +1,20 @@
+{
+	"PS16dtm":{
+		"name":"PS16dtm",
+		"sources":[
+			{
+				"bibcode":"2017arXiv170307816B"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS16dtm"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE"
+			}
+		]
+	}
+}
