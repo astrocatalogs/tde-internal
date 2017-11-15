@@ -1,0 +1,46 @@
+{
+	"J094608":{
+		"name":"J094608",
+		"sources":[
+			{
+				"bibcode":"2017arXiv171104577K"
+			}
+		],
+		"alias":[
+			{
+				"value":"J094608"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE?"
+			},
+			{
+				"value":"IIn?"
+			},
+			{
+				"value":"AGN"
+			}
+		],
+		"ra":[
+			{
+				"value":"09:46:08.49"
+			}
+		],
+		"dec":[
+			{
+				"value":"35:12:22.4"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.119"
+			}
+		],
+		"host":[
+			{
+				"value":"SDSS J094608.49+351222.4"
+			}
+		]
+	}
+}
