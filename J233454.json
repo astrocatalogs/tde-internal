@@ -1,0 +1,46 @@
+{
+	"J233454":{
+		"name":"J233454",
+		"sources":[
+			{
+				"bibcode":"2017arXiv171104577K"
+			}
+		],
+		"alias":[
+			{
+				"value":"J233454"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE?"
+			},
+			{
+				"value":"IIn?"
+			},
+			{
+				"value":"AGN"
+			}
+		],
+		"ra":[
+			{
+				"value":"23:34:54.07"
+			}
+		],
+		"dec":[
+			{
+				"value":"14:57:12.8"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.107"
+			}
+		],
+		"host":[
+			{
+				"value":"SDSS J233454.07+145712.8"
+			}
+		]
+	}
+}
