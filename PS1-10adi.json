@@ -1,0 +1,44 @@
+{
+	"PS1-10adi":{
+		"name":"PS1-10adi",
+		"sources":[
+			{
+				"bibcode":"2017arXiv171104577K"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE?"
+			},
+			{
+				"value":"IIn?"
+			}
+		],
+		"ra":[
+			{
+				"value":"20:42:44.74"
+			}
+		],
+		"dec":[
+			{
+				"value":"15:30:32.1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.203",
+				"e_value":"0.001"
+			}
+		],
+		"host":[
+			{
+				"value":"SDSS J204244.74+153032.1"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS1-10adi"
+			}
+		]
+	}
+}
