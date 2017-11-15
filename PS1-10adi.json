@@ -6,12 +6,20 @@
 				"bibcode":"2017arXiv171104577K"
 			}
 		],
+		"alias":[
+			{
+				"value":"PS1-10adi"
+			}
+		],
 		"claimedtype":[
 			{
 				"value":"TDE?"
 			},
 			{
 				"value":"IIn?"
+			},
+			{
+				"value":"AGN"
 			}
 		],
 		"ra":[
@@ -33,11 +41,6 @@
 		"host":[
 			{
 				"value":"SDSS J204244.74+153032.1"
-			}
-		],
-		"alias":[
-			{
-				"value":"PS1-10adi"
 			}
 		]
 	}
