@@ -1,0 +1,46 @@
+{
+	"PS1-13jw":{
+		"name":"PS1-13jw",
+		"sources":[
+			{
+				"bibcode":"2017arXiv171104577K"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS1-13jw"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"TDE?"
+			},
+			{
+				"value":"IIn?"
+			},
+			{
+				"value":"AGN?"
+			}
+		],
+		"ra":[
+			{
+				"value":"08:44:53.56"
+			}
+		],
+		"dec":[
+			{
+				"value":"42:57:44.8"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.345"
+			}
+		],
+		"host":[
+			{
+				"value":"SDSS J084453.56+425744.8"
+			}
+		]
+	}
+}
