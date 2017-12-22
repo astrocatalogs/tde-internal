@@ -1,5 +1,7 @@
 # tde-internal
 
+<a href="https://travis-ci.org/astrocatalogs/tde-internal"><img src="https://img.shields.io/travis/astrocatalogs/tde-internal.svg" alt="Build Status"></a>
+
 This repository is used to store data that is manually entered. The files in this repository should be in JSON format, but the format is not as strict as the JSON files that appear in the main catalog (they will be cleaned upon import anyway). If no source is attached to individual data objects, the first source specified is assumed to be the source of the data. Key names are identical to those in the main repo as generted by the import script.
 
 Here's an example file for SN1937A:
