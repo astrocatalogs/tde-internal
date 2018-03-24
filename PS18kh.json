@@ -1,0 +1,38 @@
+{
+	"PS18kh":{
+		"name":"PS18kh",
+		"sources":[
+			{
+				"bibcode":"2018ATel11473....1T"
+			}
+		],
+		"alias":[
+			{
+				"value":"PS18kh"
+			},
+			{
+				"value":"AT2018zr"
+			}
+		],
+		"ra":[
+			{
+				"value":"07:56:54.540"
+			}
+		],
+		"dec":[
+			{
+				"value":"+34:15:43.61"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.075"
+			}
+		],
+		"host":[
+			{
+				"value":"SDSS J075654.53+341543.6"
+			}
+		]
+	}
+}
