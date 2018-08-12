@@ -13,6 +13,30 @@
 				"source":"1"
 			}
 		],
+		"ra":[
+			{
+				"value":"07:56:54.53",
+				"source":"1"
+			}
+		],
+		"dec":[
+			{
+				"value":"+34:15:43.6",
+				"source":"1"
+			}
+		],
+		"redshift":[
+			{
+				"value":"0.074",
+				"source":"1"
+			}
+		],
+		"host":[
+			{
+				"value":"SDSS J075654.53+341543.6",
+				"source":"1"
+			}
+		],
 		"photometry":[
 			{
 				"time":"58137.139",
